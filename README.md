@@ -11,3 +11,4 @@
 2. `git log` gives history
 3. `git add <file name>` adds to staging area
 4. `git commit -m <Message>` makes the commit
+5. To push to github, we do `git push origin main`
